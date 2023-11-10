@@ -8,6 +8,7 @@ I'm a seasoned software architect with a specialization in container/cloud-nativ
 #### 🌱 Currently Learning:
 - 📚 Elixir
 - 📚 Clojure
+- 📚 LangChain
 
 #### 👯 Looking to Collaborate On:
 I'm open to collaborating on repositories that involve Elixir and Clojure starters. If you have exciting projects in these domains, feel free to reach out!
